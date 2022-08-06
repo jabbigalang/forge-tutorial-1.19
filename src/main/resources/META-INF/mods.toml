@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[42,)"
+license="All rights reserved"
+[[mods]]
+modId="tutorialmod"
+version="1.0"
+displayName="Tutorial Mod"
+logoFile="examplemod.png"
+credits="Me"
+authors="Chrisen"
+description='''
+A 1.19 Forge Modding Tutorial
+'''
